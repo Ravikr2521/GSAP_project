@@ -1,16 +1,25 @@
-<<<<<<< HEAD
-# React + Vite
+# GSAP Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web animation project built using [GSAP](https://greensock.com/gsap/), [Vite](https://vitejs.dev/), and [React](https://reactjs.org/). This project showcases high-performance animations and interactive UI elements.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Smooth Animations**: Utilize GSAP for fluid animations.
+- **Modern Tooling**: Built with Vite for fast development and optimized builds.
+- **React Integration**: Leverage React's component-based architecture for maintainable code.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# GSAP_project
->>>>>>> a0993be27680e546857f32a717dc4057cdb3afc5
+- **GSAP**: GreenSock Animation Platform for high-performance animations.
+- **Vite**: Next-generation build tool for fast development.
+- **React**: JavaScript library for building user interfaces.
+- **ESLint**: Linting tool for identifying and fixing problems in JavaScript code.
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Ravikr2521/GSAP_project.git
+cd GSAP_project
+npm install
